@@ -28,7 +28,7 @@ export class ContactForm extends Component {
       name: ''
     })
   }
-
+в
   render() {
     return (
       <Form onSubmit={this.onSubmitForm}>
